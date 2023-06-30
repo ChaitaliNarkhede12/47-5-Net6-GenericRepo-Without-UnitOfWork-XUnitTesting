@@ -1,0 +1,15 @@
+D:\Chaitali\Projects\.NET Projects\Net6-GenericRepo-With-IUnitOfWork-XUnitTest\TCCS.Application\obj\Debug\net6.0\TCCS.Application.csproj.AssemblyReference.cache
+D:\Chaitali\Projects\.NET Projects\Net6-GenericRepo-With-IUnitOfWork-XUnitTest\TCCS.Application\obj\Debug\net6.0\TCCS.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Chaitali\Projects\.NET Projects\Net6-GenericRepo-With-IUnitOfWork-XUnitTest\TCCS.Application\obj\Debug\net6.0\TCCS.Application.AssemblyInfoInputs.cache
+D:\Chaitali\Projects\.NET Projects\Net6-GenericRepo-With-IUnitOfWork-XUnitTest\TCCS.Application\obj\Debug\net6.0\TCCS.Application.AssemblyInfo.cs
+D:\Chaitali\Projects\.NET Projects\Net6-GenericRepo-With-IUnitOfWork-XUnitTest\TCCS.Application\obj\Debug\net6.0\TCCS.Application.csproj.CoreCompileInputs.cache
+D:\Chaitali\Projects\.NET Projects\Net6-GenericRepo-With-IUnitOfWork-XUnitTest\TCCS.Application\bin\Debug\net6.0\TCCS.Application.deps.json
+D:\Chaitali\Projects\.NET Projects\Net6-GenericRepo-With-IUnitOfWork-XUnitTest\TCCS.Application\bin\Debug\net6.0\TCCS.Application.dll
+D:\Chaitali\Projects\.NET Projects\Net6-GenericRepo-With-IUnitOfWork-XUnitTest\TCCS.Application\bin\Debug\net6.0\TCCS.Application.pdb
+D:\Chaitali\Projects\.NET Projects\Net6-GenericRepo-With-IUnitOfWork-XUnitTest\TCCS.Application\bin\Debug\net6.0\TCCS.DataAccess.dll
+D:\Chaitali\Projects\.NET Projects\Net6-GenericRepo-With-IUnitOfWork-XUnitTest\TCCS.Application\bin\Debug\net6.0\TCCS.DataAccess.pdb
+D:\Chaitali\Projects\.NET Projects\Net6-GenericRepo-With-IUnitOfWork-XUnitTest\TCCS.Application\obj\Debug\net6.0\TCCS.Application.csproj.CopyComplete
+D:\Chaitali\Projects\.NET Projects\Net6-GenericRepo-With-IUnitOfWork-XUnitTest\TCCS.Application\obj\Debug\net6.0\TCCS.Application.dll
+D:\Chaitali\Projects\.NET Projects\Net6-GenericRepo-With-IUnitOfWork-XUnitTest\TCCS.Application\obj\Debug\net6.0\refint\TCCS.Application.dll
+D:\Chaitali\Projects\.NET Projects\Net6-GenericRepo-With-IUnitOfWork-XUnitTest\TCCS.Application\obj\Debug\net6.0\TCCS.Application.pdb
+D:\Chaitali\Projects\.NET Projects\Net6-GenericRepo-With-IUnitOfWork-XUnitTest\TCCS.Application\obj\Debug\net6.0\ref\TCCS.Application.dll
